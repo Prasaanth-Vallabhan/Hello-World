@@ -1,3 +1,5 @@
+print("DevOps\nDAA\nCN\nOS\nSE\nEthics\n\n")
+
 num = 7
 
 if num > 1:
